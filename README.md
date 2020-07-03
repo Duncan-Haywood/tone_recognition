@@ -1,7 +1,13 @@
-# Example of a reproducible machine learning model 
+This project intends to listen to speech, and begin to understand and generate tonal patterns in speech.
 
-See [https://cmawer.github.io/reproducible-model](https://cmawer.github.io/reproducible-model) for the lightening talk I gave at the Women in Machine Learning and Data Science meetup on March 26, 2019 at Stitch Fix on the ingredients of a reproducible machine learning model.
- 
+
+
+
+
+
+#Template source: See [https://cmawer.github.io/reproducible-model]
+#Following README also from: [https://cmawer.github.io/reproducible-model]
+Everything below is also unedited, and some of it may be inaccurate
 
 ## Repo structure 
 
@@ -49,6 +55,11 @@ See [https://cmawer.github.io/reproducible-model](https://cmawer.github.io/repro
 ├── run.py                            <- Simplifies the execution of one or more of the src scripts 
 ├── requirements.txt                  <- Python package dependencies 
 ```
+
+
+
+
+
 This project structure was partially influenced by the [Cookiecutter Data Science project](https://drivendata.github.io/cookiecutter-data-science/).
 
 ## Environment setup 
