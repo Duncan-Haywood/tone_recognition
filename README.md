@@ -1,12 +1,12 @@
 This project intends to listen to speech, and begin to understand and generate tonal patterns in speech.
 
+This project also has a lot of data included: a clone will download about 
 
 
 
 
-
-#Template source: See [https://cmawer.github.io/reproducible-model]
-#Following README also from: [https://cmawer.github.io/reproducible-model]
+# Template source: See [https://cmawer.github.io/reproducible-model]
+# Following README also from: [https://cmawer.github.io/reproducible-model]
 Everything below is also unedited, and some of it may be inaccurate
 
 ## Repo structure 
