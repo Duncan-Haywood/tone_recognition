@@ -1,6 +1,6 @@
 This project intends to listen to speech, and begin to understand and generate tonal patterns in speech.
 
-This project also has a lot of data included: a clone will download about 
+This project also has a lot of data included: a clone will download about 3.4G as of 
 
 
 
