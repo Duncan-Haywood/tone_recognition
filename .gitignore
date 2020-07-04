@@ -1,17 +1,17 @@
-data/*
+#data/*
 !data/archive/.gitkeep
 !data/.gitkeep
-models/*
+#models/*
 !models/README.md
 !models/archive/.gitkeep
 *.pyc
-.ipynb_checkpoints
-data/*
+#.ipynb_checkpoints
+#data/*
 !data/external/
-models/*
+#models/*
 !models/README.md
-test/test/*
-notebooks/archive/
+#test/test/*
+#notebooks/archive/
 
 
 __pycache__/
@@ -23,7 +23,7 @@ __pycache__/
 *.sh
 .idea
 *.pyc
-.ipynb_checkpoints
+#.ipynb_checkpoints
 .DS_Store
 
 
